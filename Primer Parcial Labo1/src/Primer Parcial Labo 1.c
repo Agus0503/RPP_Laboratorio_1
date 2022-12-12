@@ -82,11 +82,11 @@ int main(void) {
 				};
 
 	sSeleccion selecciones[CANT_SELECCIONES] = {
-											{100, "Argentina", "Lionel Scaloni", OCUPADO},
-											{101, "España", "Luis Enrique", OCUPADO},
-											{102, "Paises Bajos", "Louis Van Gaal", OCUPADO},
-											{103,"Uruguay","Diego Alonso",OCUPADO},
-											{104, "Brasil", "Tite", OCUPADO},
+											{100, "Argentina",   "Lionel Scaloni", 11,OCUPADO},
+											{101, "España", 	 "Luis Enrique",   11,OCUPADO},
+											{102, "Paises Bajos","Louis Van Gaal", 11,OCUPADO},
+											{103,"Uruguay",		 "Diego Alonso",   11,OCUPADO},
+											{104, "Brasil", 	 "Tite", 		   11,OCUPADO},
 											};
 
 	sAlbum album;
